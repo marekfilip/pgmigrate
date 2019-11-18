@@ -45,6 +45,8 @@ Complete manual is [here](doc/tutorial.md).
 
 ## Release history
 
+* 1.0.5 (2019-11-18)
+    * Add support for Postgresql schema parameter (thanks to [grihabor](https://github.com/grihabor))
 * 1.0.3 (2017-12-28)
     * Fix migration error with comment at the end of file
     * Add blocking pids termination
